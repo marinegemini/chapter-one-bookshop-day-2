@@ -1,6 +1,7 @@
 # F1 — Build and Manage a Cart Implementation Plan
 
-**Status:** Draft
+**Status:** Approved
+**Plan approval:** Approved by Workspace user via chat on 2026-11-13
 **Spec version:** Approved design spec, 2026-11-13
 **Spec:** `docs/superpowers/specs/2026-11-13-f1-build-manage-cart-design.md`
 **Intent:** `docs/intent.md`, F1 — Build and manage a cart, approved 2026-11-13
